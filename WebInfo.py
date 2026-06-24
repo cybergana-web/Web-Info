@@ -1,3 +1,22 @@
+import subprocess
+import sys
+
+required_modules = {
+    "requests": "requests",
+    "whois": "python-whois",
+    "colorama": "colorama"
+}
+
+def install(package):
+    subprocess.check_call([sys.executable, "-m", "pip", "install", package])
+
+for module, package in required_modules.items():
+    try:
+        __import__(module)
+    except ImportError:
+        print(f"[+] Installing {package}...")
+        install(package)
+        
 import socket
 import requests
 import whois
