@@ -73,7 +73,7 @@ ARGCyberSkillHub
 
 ## 📸 Preview
 
-![WebInfo Preview](images/preview.png)
+![WebInfo Preview](preview.png)
 
 ## 🌐 Official Website
 
