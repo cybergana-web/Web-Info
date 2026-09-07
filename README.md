@@ -23,8 +23,8 @@ WebInfo is a powerful Python-based CLI reconnaissance tool that provides multipl
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/argcyberskillhub-commits/WebInfo.git
-cd WebInfo
+git clone https://github.com/cybergana-web/Web-Info.git
+cd Web-Info
 ```
 
 ### 2. Install Requirements
@@ -38,7 +38,7 @@ pip install -r requirements.txt
 ## ▶️ Usage
 
 ```bash
-python WebInfo.py
+python Web-Info.py
 ```
 
 ---
@@ -73,11 +73,9 @@ ARGCyberSkillHub
 
 ## 📸 Preview
 
-![WebInfo Preview](preview.png)
-
-## 🌐 Official Website
-
-https://argskillhub.com
+<p align="center">
+  <img src="Web-Info.png" alt="Web-Info" width="900">
+</p>
 
 ---
 
