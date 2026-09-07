@@ -74,7 +74,7 @@ ARGCyberSkillHub
 ## 📸 Preview
 
 <p align="center">
-  <img src="Web-Info.png" alt="Web-Info" width="900">
+  <img src="Web-Info.png" alt="Web-Info" width="600">
 </p>
 
 ---
